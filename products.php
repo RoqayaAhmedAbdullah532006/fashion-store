@@ -49,7 +49,7 @@ $products = [
     <div class="row">
 
         <?php foreach($products as $product => $values){ ?>
-<div class="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
+<div class="col-12 col-sm-6 col-lg-4 mb-4 d-flex">
 
     <div class="card product-card w-100">
 
